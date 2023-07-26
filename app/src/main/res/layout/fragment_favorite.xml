@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient"
+    tools:context=".view.FavoriteFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="20dp"
+        android:layout_margin="30dp"
+        android:textColor="@color/black"
+        android:textStyle="italic|bold"
+        android:text="@string/favorite_txt"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/favorite_sub"
+        android:textSize="12sp"
+        android:paddingTop="85dp"
+        android:layout_margin="30dp"
+        android:textColor="@color/black"
+        android:gravity="center"/>
+
+</FrameLayout>

@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">STRANGER THINGS</string>
+    <string name="app_name2">Stranger</string>
+
+    <!-- TODO: SECTION MENU TOOLBAR  -->
+    <string name="toolbar_elements">Characters</string>
+    <string name="toolbar_favorite">Favorite</string>
+    <string name="toolbar_information">Information</string>
+
+
+    <!-- TODO: SECTION INFORMATION -->
+    <string name="information_data">
+
+        \nDetalles sobre este aplicativo dejado como evaluacion continua 3 para el curso de desarrollo movil.\n
+
+        \nCreador del proyecto: Cercado Melgarejo Naydelin Gaby\n
+
+        \nDatos:\n
+
+        \nFuncionalidad de la lista de personajes de la serie llamada Stranger Things\n
+
+        \nNotas: La api a llamar no contiene nombre de la lista json, por ende se genero un api apartir del escogido escogiendole un nombre a la lista.
+
+    </string>
+
+
+    <!-- TODO: SECTION ITEM CHARACTER -->
+    <string name="character_txt">Portrayed by: </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite_txt">This Fragment will be improve in a future</string>
+    <string name="favorite_sub">For now you can see a little detail about the characters with his own photo on the section Character</string>
+
+
+</resources>
